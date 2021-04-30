@@ -1,0 +1,13 @@
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\bin\Debug\netcoreapp3.1\ข้อ2.exe
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\bin\Debug\netcoreapp3.1\ข้อ2.deps.json
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\bin\Debug\netcoreapp3.1\ข้อ2.runtimeconfig.json
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\bin\Debug\netcoreapp3.1\ข้อ2.runtimeconfig.dev.json
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\bin\Debug\netcoreapp3.1\ข้อ2.dll
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\bin\Debug\netcoreapp3.1\ข้อ2.pdb
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\obj\Debug\netcoreapp3.1\ข้อ2.csprojAssemblyReference.cache
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\obj\Debug\netcoreapp3.1\ข้อ2.AssemblyInfoInputs.cache
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\obj\Debug\netcoreapp3.1\ข้อ2.AssemblyInfo.cs
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\obj\Debug\netcoreapp3.1\ข้อ2.csproj.CoreCompileInputs.cache
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\obj\Debug\netcoreapp3.1\ข้อ2.dll
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\obj\Debug\netcoreapp3.1\ข้อ2.pdb
+E:\0.2021\mdt112\HW\ข้อ2\ข้อ2\obj\Debug\netcoreapp3.1\ข้อ2.genruntimeconfig.cache
