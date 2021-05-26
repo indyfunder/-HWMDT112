@@ -1,0 +1,13 @@
+E:\0.2021\mdt112\HW\Hw 5\HW5\bin\Debug\netcoreapp3.1\HW5.exe
+E:\0.2021\mdt112\HW\Hw 5\HW5\bin\Debug\netcoreapp3.1\HW5.deps.json
+E:\0.2021\mdt112\HW\Hw 5\HW5\bin\Debug\netcoreapp3.1\HW5.runtimeconfig.json
+E:\0.2021\mdt112\HW\Hw 5\HW5\bin\Debug\netcoreapp3.1\HW5.runtimeconfig.dev.json
+E:\0.2021\mdt112\HW\Hw 5\HW5\bin\Debug\netcoreapp3.1\HW5.dll
+E:\0.2021\mdt112\HW\Hw 5\HW5\bin\Debug\netcoreapp3.1\HW5.pdb
+E:\0.2021\mdt112\HW\Hw 5\HW5\obj\Debug\netcoreapp3.1\HW5.csprojAssemblyReference.cache
+E:\0.2021\mdt112\HW\Hw 5\HW5\obj\Debug\netcoreapp3.1\HW5.AssemblyInfoInputs.cache
+E:\0.2021\mdt112\HW\Hw 5\HW5\obj\Debug\netcoreapp3.1\HW5.AssemblyInfo.cs
+E:\0.2021\mdt112\HW\Hw 5\HW5\obj\Debug\netcoreapp3.1\HW5.csproj.CoreCompileInputs.cache
+E:\0.2021\mdt112\HW\Hw 5\HW5\obj\Debug\netcoreapp3.1\HW5.dll
+E:\0.2021\mdt112\HW\Hw 5\HW5\obj\Debug\netcoreapp3.1\HW5.pdb
+E:\0.2021\mdt112\HW\Hw 5\HW5\obj\Debug\netcoreapp3.1\HW5.genruntimeconfig.cache
