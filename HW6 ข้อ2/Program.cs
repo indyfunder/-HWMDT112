@@ -53,7 +53,7 @@ namespace HW6_ข้อ2
                             }
                             else
                             {
-                                Console.Write("Try to save some money for your yourself");
+                                Console.Write("Try to save some money for yourself");
                             }
                         }
                         else
